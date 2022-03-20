@@ -1,2 +1,2 @@
-# TCC_Reyn
+# TCC_Reyntech
 TCC - Informática para a internet
